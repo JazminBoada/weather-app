@@ -83,11 +83,12 @@ body {
 }
 
 /*Footer*/
+
 .data-container {
   display: flex;
   justify-content: center;
-  margin-top: 125px;
-  padding: 0px 30px 0px 30px;
+  margin-top: 70px;
+  padding: 0px 30px 80px 30px;
   color: white;
 }
 
